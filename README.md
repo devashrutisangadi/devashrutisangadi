@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Devashruti 👋  <br><br>B.Tech CE student at Indus University with a focus on full-stack and mobile development.  <br>Skilled in MERN stack and Flutter, building scalable and user-focused applications.  <br><br>Currently working on improving backend performance and real-world project development.  <br>Open to opportunities where I can contribute and grow as a developer.  
+Hi, I'm Devashruti 👋  <br><br>B.Tech CE student at Indus University with a focus on full-stack and android development.  <br>Skilled in MERN stack and Flutter, building scalable and user-focused applications.  <br><br>Currently working on improving backend performance and real-world project development.  <br>Open to opportunities where I can contribute and grow as a developer.  
 
 
 ## 🌐 Socials:
