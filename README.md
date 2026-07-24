@@ -132,7 +132,7 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&cover_image=true&theme=default&show_offline=false&background_color=400040&interchange=true&profanity=false&hide_remaster=false&bar_color=ff80c0&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&cover_image=true&theme=default&show_offline=true&background_color=400040&interchange=true&profanity=false&hide_remaster=false&bar_color=ff80c0&bar_color_cover=true">
   </a>
 </p>
 
