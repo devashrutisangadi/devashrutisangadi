@@ -1,4 +1,3 @@
-
 <!-- ========================= -->
 <!--         BANNER           -->
 <!-- ========================= -->
@@ -17,6 +16,12 @@
   </a>
   <a href="https://github.com/devashrutisangadi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devashruti-sangadi-824511308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:svdevashruti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -87,35 +92,35 @@ Open to opportunities where I can contribute and grow as a developer.
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge\&logo=nestjs)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge\&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
 
 ### Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge\&logo=flutter)
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge\&logo=android)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge\&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
 
 ### Tools
 
@@ -126,20 +131,31 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 # Currently Listening
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q6n5z3y5w3b2g5u4r7s2l4s6s4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=BD93F9&bar_color_cover=true" />
+  <a href="https://open.spotify.com/user/989w9m9jckizbm4bvl3xull4u?si=1e5be3005e7f428d" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Follow%20My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
+
+<!--
+  Want a LIVE "now playing" widget instead of a static badge?
+  1. Go to https://spotify-github-profile.vercel.app/
+  2. Log in with your Spotify account and authorize it
+  3. It will generate a unique uid + redirect_uri for YOUR account
+  4. Replace the badge above with:
+     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_REAL_UID&redirect_uri=YOUR_REDIRECT_URI&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=BD93F9&bar_color_cover=true" />
+-->
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devashrutisangadi&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devashrutisangadi&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" />
   <img width="48%" src="https://streak-stats.demolab.com?user=devashrutisangadi&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashrutisangadi&layout=compact&theme=dracula&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashrutisangadi&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" />
   <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=devashrutisangadi&theme=dracula&hide_border=true" />
 </p>
 
@@ -150,6 +166,15 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 <p align="center">
   <img src="https://raw.githubusercontent.com/devashrutisangadi/devashrutisangadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<!--
+  If the snake above is blank/404, it means the GitHub Action that
+  generates this SVG isn't running in your profile repo yet.
+  Add the workflow file (snake.yml) to:
+    devashrutisangadi/devashrutisangadi/.github/workflows/snake.yml
+  Then push once (or run it manually from the Actions tab).
+  It builds an "output" branch containing the SVG this image points to.
+-->
 
 ---
 
@@ -169,6 +194,12 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
   </a>
   <a href="https://devashrutisangadi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devashruti-sangadi-824511308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:svdevashruti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
