@@ -9,4 +9,8 @@ Hi, I'm Devashruti 👋<br><br>B.Tech CE student at Indus University with a focu
 ![](https://streak-stats.demolab.com/?user=devashrutisangadi&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devashrutisangadi&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+# Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/devashrutisangadi/devashrutisangadi/output/github-contribution-grid-snake-dark.svg" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
