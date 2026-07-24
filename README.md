@@ -4,7 +4,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Devashruti&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Android%20Developer%20•%20Backend%20Enthusiast&descAlignY=58&descSize=18&color=0:1a1a2e,100:3a0ca3&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Devashruti%20Sangadi&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Android%20Developer%20•%20Backend%20Enthusiast&descAlignY=58&descSize=18&color=0:1a1a2e,100:3a0ca3&fontColor=ffffff" />
 </p>
 
 <p align="center">
