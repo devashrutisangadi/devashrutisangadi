@@ -27,7 +27,7 @@
 ```bash
 > whoami
 
-Devashruti
+Devashruti Sangadi
 
 B.Tech Computer Engineering student at Indus University.
 
@@ -54,7 +54,7 @@ Open to opportunities where I can contribute and grow as a developer.
 
 ## Nocturne
 
-> AI-powered Job Intelligence Platform
+> AI-powered Job Intelligence Platform for Android and Web
 
 * Intelligent job matching
 * Skill gap analysis
@@ -63,7 +63,7 @@ Open to opportunities where I can contribute and grow as a developer.
 * Personalized recommendations
 
 **Tech**
-`React` `Node.js` `Express` `MongoDB` `AI APIs`
+`Android` `Firebase` `Java`
 
 ---
 
@@ -97,7 +97,6 @@ Open to opportunities where I can contribute and grow as a developer.
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge\&logo=angular)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwindcss)
 
 ### Backend
@@ -124,7 +123,7 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 
 ---
 
-# Spotify
+# Currently Listening
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q6n5z3y5w3b2g5u4r7s2l4s6s4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=BD93F9&bar_color_cover=true" />
