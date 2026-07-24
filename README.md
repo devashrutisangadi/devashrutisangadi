@@ -3,25 +3,25 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Devashruti%20Sangadi&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Android%20Developer%20•%20Backend%20Enthusiast&descAlignY=58&descSize=18&color=0:F5E9DA,100:4C1D95&fontColor=FFF8F0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Devashruti%20Sangadi&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Android%20Developer%20•%20Backend%20Enthusiast&descAlignY=58&descSize=18&color=0:100D11,100:3A0A14&fontColor=F3E1E3" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Devashruti;B.Tech+CE+student+at+Indus+University;Building+full-stack+and+Android+projects;Currently+improving+backend+performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=C97C87&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Devashruti;B.Tech+CE+student+at+Indus+University;Building+full-stack+and+Android+projects;Currently+improving+backend+performance" />
 </p>
 
 <!-- <p align="center">
   <a href="https://devashrutisangadi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-100D11?style=for-the-badge&logo=vercel&logoColor=F3E1E3" />
   </a>
   <a href="https://github.com/devashrutisangadi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-100D11?style=for-the-badge&logo=github&logoColor=F3E1E3" />
   </a>
   <a href="https://www.linkedin.com/in/devashruti-sangadi-824511308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-100D11?style=for-the-badge&logo=linkedin&logoColor=F3E1E3" />
   </a>
   <a href="mailto:svdevashruti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-100D11?style=for-the-badge&logo=gmail&logoColor=F3E1E3" />
   </a>
 </p> -->
 
@@ -125,21 +125,26 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 # GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/devashrutisangadi/github-stats/generated/overview.svg" />
-  <img width="48%" src="https://raw.githubusercontent.com/devashrutisangadi/github-stats/generated/languages.svg" />
+  <img width="460" height="195" src="https://github.com/devashrutisangadi/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img width="460" height="195" src="https://github.com/devashrutisangadi/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=devashrutisangadi&hide_border=true&background=FDF6EC&ring=6D28D9&fire=A78BFA&currStreakLabel=2E1065&sideLabels=2E1065&currStreakNum=2E1065&sideNums=2E1065&dates=8B5CF6" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=devashrutisangadi&hide_border=true&bg_color=FDF6EC&color=6D28D9&line=8B5CF6&point=4C1D95" />
+  <img width="460" height="195" src="https://streak-stats.demolab.com?user=devashrutisangadi&hide_border=true&background=15111A&ring=C97C87&fire=D9A0A8&currStreakLabel=F3E1E3&sideLabels=F3E1E3&currStreakNum=F3E1E3&sideNums=F3E1E3&dates=A6868D" />
+  <img width="460" height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=devashrutisangadi&hide_border=true&bg_color=15111A&color=C97C87&line=D9A0A8&point=F3E1E3" />
 </p>
 
 <!--
-  The two cards above (overview + languages) are pulled from your own
-  self-hosted github-stats repo, not the unreliable shared Vercel instance.
-  They will show 404 until you've completed the setup: fork/template
-  jstrieb/github-stats as "github-stats", add an ACCESS_TOKEN secret,
-  and run the workflow once. See setup steps in chat history.
+  All four cards use the portfolio site's palette: near-black background
+  (#100D11/#15111A) with dusty rose accents (#C97C87/#D9A0A8) and blush
+  text (#F3E1E3), pulled from devashrutisangadi.netlify.app.
+
+  Caveat: the overview/languages cards (top row) come from your
+  self-hosted github-stats repo, which uses its own fixed dark theme
+  (not the rose accent) — that one isn't controllable via URL params.
+  To match it exactly, we'd need to edit the SVG templates inside the
+  github-stats repo itself (templates/ folder). Let me know if you want
+  to do that.
 -->
 
 ---
@@ -150,14 +155,6 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
   <img src="https://raw.githubusercontent.com/devashrutisangadi/devashrutisangadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!--
-  If the snake above is blank/404, it means the GitHub Action that
-  generates this SVG isn't running in your profile repo yet.
-  Add the workflow file (snake.yml) to:
-    devashrutisangadi/devashrutisangadi/.github/workflows/snake.yml
-  Then push once (or run it manually from the Actions tab).
-  It builds an "output" branch containing the SVG this image points to.
--->
 
 
 ---
@@ -166,7 +163,7 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&cover_image=true&theme=natemoo-re&show_offline=true&background_color=400040&interchange=true&profanity=false&hide_remaster=false&bar_color=008000&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&cover_image=true&theme=natemoo-re&show_offline=true&background_color=15111A&interchange=true&profanity=false&hide_remaster=false&bar_color=C97C87&bar_color_cover=false">
   </a>
 </p>
 
@@ -184,21 +181,21 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 
 <p align="center">
   <a href="https://github.com/devashrutisangadi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100D11?style=for-the-badge&logo=github&logoColor=F3E1E3" />
   </a>
   <a href="https://devashrutisangadi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-100D11?style=for-the-badge&logo=vercel&logoColor=F3E1E3" />
   </a>
   <a href="https://www.linkedin.com/in/devashruti-sangadi-824511308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-100D11?style=for-the-badge&logo=linkedin&logoColor=F3E1E3" />
   </a>
   <a href="mailto:svdevashruti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-100D11?style=for-the-badge&logo=gmail&logoColor=F3E1E3" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devashrutisangadi&label=Profile%20Views&color=6D28D9&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=devashrutisangadi&label=Profile%20Views&color=C97C87&style=for-the-badge" />
 </p>
 
 <p align="center">
