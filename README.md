@@ -131,19 +131,10 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 # Currently Listening
 
 <p align="center">
-  <a href="https://open.spotify.com/user/989w9m9jckizbm4bvl3xull4u?si=1e5be3005e7f428d" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Follow%20My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=989w9m9jckizbm4bvl3xull4u&cover_image=true&theme=default&show_offline=false&background_color=400040&interchange=true&profanity=false&hide_remaster=false&bar_color=ff80c0&bar_color_cover=true">
   </a>
 </p>
-
-<!--
-  Want a LIVE "now playing" widget instead of a static badge?
-  1. Go to https://spotify-github-profile.vercel.app/
-  2. Log in with your Spotify account and authorize it
-  3. It will generate a unique uid + redirect_uri for YOUR account
-  4. Replace the badge above with:
-     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_REAL_UID&redirect_uri=YOUR_REDIRECT_URI&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=BD93F9&bar_color_cover=true" />
--->
 
 ---
 
@@ -167,14 +158,7 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
   <img src="https://raw.githubusercontent.com/devashrutisangadi/devashrutisangadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!--
-  If the snake above is blank/404, it means the GitHub Action that
-  generates this SVG isn't running in your profile repo yet.
-  Add the workflow file (snake.yml) to:
-    devashrutisangadi/devashrutisangadi/.github/workflows/snake.yml
-  Then push once (or run it manually from the Actions tab).
-  It builds an "output" branch containing the SVG this image points to.
--->
+
 
 ---
 
