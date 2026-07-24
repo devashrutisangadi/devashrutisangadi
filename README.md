@@ -125,13 +125,13 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 # GitHub Analytics
 
 <p align="center">
-  <img width="460" height="195" src="https://github.com/devashrutisangadi/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-  <img width="460" height="195" src="https://github.com/devashrutisangadi/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+  <img width="48%" src="https://github.com/devashrutisangadi/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img width="48%" src="https://github.com/devashrutisangadi/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <img width="460" height="195" src="https://streak-stats.demolab.com?user=devashrutisangadi&hide_border=true&background=15111A&ring=C97C87&fire=D9A0A8&currStreakLabel=F3E1E3&sideLabels=F3E1E3&currStreakNum=F3E1E3&sideNums=F3E1E3&dates=A6868D" />
-  <img width="460" height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=devashrutisangadi&hide_border=true&bg_color=15111A&color=C97C87&line=D9A0A8&point=F3E1E3" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=devashrutisangadi&hide_border=true&background=15111A&ring=C97C87&fire=D9A0A8&currStreakLabel=F3E1E3&sideLabels=F3E1E3&currStreakNum=F3E1E3&sideNums=F3E1E3&dates=A6868D" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=devashrutisangadi&hide_border=true&bg_color=15111A&color=C97C87&line=D9A0A8&point=F3E1E3" />
 </p>
 
 <!--
@@ -155,6 +155,19 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
   <img src="https://raw.githubusercontent.com/devashrutisangadi/devashrutisangadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<!--
+  If the snake above is blank/404, it means the GitHub Action that
+  generates this SVG isn't running in your profile repo yet.
+  Add the workflow file (snake.yml) to:
+    devashrutisangadi/devashrutisangadi/.github/workflows/snake.yml
+  Then push once (or run it manually from the Actions tab).
+  It builds an "output" branch containing the SVG this image points to.
+
+  Note: this snake uses GitHub's default green contribution colors and
+  isn't recolorable to match the rose theme via URL params — that would
+  require customizing the Platane/snk action's color inputs directly in
+  snake.yml (color_dots / color_snake). Let me know if you'd like that.
+-->
 
 
 ---
