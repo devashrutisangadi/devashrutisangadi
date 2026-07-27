@@ -30,11 +30,11 @@
 # About Me
 
 I'm a final year B.Tech Computer Engineering student at Indus University, Ahmedabad, with a minor in Automotive Automation. 
-I'm most interested in the overlap between practical software and AI — using tools like the Gemini API and sentence-transformers to make everyday apps genuinely smarter, not AI bolted on for the sake of it.
+I'm most interested in the overlap between practical software and AI, using tools like the Gemini API and sentence-transformers to make everyday apps genuinely smarter, not AI bolted on for the sake of it.
 
 - 🔭 **Currently building:** Nocturne, a Firebase-backed academic management app (Android + Web)
 - 🌱 **Currently sharpening:** DSA fundamentals and system design, one NeetCode problem at a time
-- 🥋 NCC 'C' Certificate, Bravo grade
+- 🥋 NCC 'C' Certificate
 - 💬 **Ask me about:** Android architecture (MVVM/Room), or wiring the Gemini API into a real app
 - 📫 **Actively looking** for internship opportunities in full-stack / Android development
 
@@ -134,19 +134,6 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=devashrutisangadi&hide_border=true&bg_color=15111A&color=C97C87&line=D9A0A8&point=F3E1E3" />
 </p>
 
-<!--
-  All four cards use the portfolio site's palette: near-black background
-  (#100D11/#15111A) with dusty rose accents (#C97C87/#D9A0A8) and blush
-  text (#F3E1E3), pulled from devashrutisangadi.netlify.app.
-
-  Caveat: the overview/languages cards (top row) come from your
-  self-hosted github-stats repo, which uses its own fixed dark theme
-  (not the rose accent) — that one isn't controllable via URL params.
-  To match it exactly, we'd need to edit the SVG templates inside the
-  github-stats repo itself (templates/ folder). Let me know if you want
-  to do that.
--->
-
 ---
 
 # Contribution Snake
@@ -154,21 +141,6 @@ Git • GitHub • Postman • Netlify • Vercel • Notion • Bash
 <p align="center">
   <img src="https://raw.githubusercontent.com/devashrutisangadi/devashrutisangadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<!--
-  If the snake above is blank/404, it means the GitHub Action that
-  generates this SVG isn't running in your profile repo yet.
-  Add the workflow file (snake.yml) to:
-    devashrutisangadi/devashrutisangadi/.github/workflows/snake.yml
-  Then push once (or run it manually from the Actions tab).
-  It builds an "output" branch containing the SVG this image points to.
-
-  Note: this snake uses GitHub's default green contribution colors and
-  isn't recolorable to match the rose theme via URL params — that would
-  require customizing the Platane/snk action's color inputs directly in
-  snake.yml (color_dots / color_snake). Let me know if you'd like that.
--->
-
 
 ---
 
